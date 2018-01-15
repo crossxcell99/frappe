@@ -74,5 +74,5 @@ Resources:
 
 ---
 
-When you are ready, you can try [building a sample application](/docs/user/en/tutorial/app) using Frappé.
+When you are ready, you can try [building a sample application](/assets/frappe_docs/user/en/tutorial/app) using Frappé.
 

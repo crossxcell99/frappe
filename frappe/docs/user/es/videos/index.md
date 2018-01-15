@@ -2,7 +2,7 @@
 
 Este video tutorial de 10 videos va a enseñarte como crear aplicaciones complejas en Frappé.
 
-Prerrequisitos: <a href="/docs/user/es/tutorial/before.html" target="_blank">Debes tener conocimientos básicos de Python, Javascript y MySQl antes de empezar este tutorial.</a>
+Prerrequisitos: <a href="/assets/frappe_docs/user/es/tutorial/before.html" target="_blank">Debes tener conocimientos básicos de Python, Javascript y MySQl antes de empezar este tutorial.</a>
 
 ---
 

@@ -30,7 +30,7 @@ The first step is to setup the docs folder. For that you must create a new file 
 
 ### 2. Add User Documentation
 
-To add user documentation, add folders and pages in your `/docs/user` folder in the same way you would build a website pages in the `www` folder.
+To add user documentation, add folders and pages in your `/assets/frappe_docs/user` folder in the same way you would build a website pages in the `www` folder.
 
 Some quick tips:
 
@@ -43,14 +43,14 @@ Some quick tips:
 While linking make sure you add `/docs` to all your links.
 
 
-    {% raw %}<a href="/docs/user/link/to/page.html">Link Description</a>{% endraw %}
+    {% raw %}<a href="/assets/frappe_docs/user/link/to/page.html">Link Description</a>{% endraw %}
 
 
 ### 4. Adding Images
 
-You can add images in the `/docs/assets` folder. You can add links to the images as follows:
+You can add images in the `/assets/frappe_docs/assets` folder. You can add links to the images as follows:
 
-    {% raw %}<img src="/docs/assets/img/my-img/gif" class="screenshot">{% endraw %}
+    {% raw %}<img src="/assets/frappe_docs/assets/img/my-img/gif" class="screenshot">{% endraw %}
 
 ---
 
